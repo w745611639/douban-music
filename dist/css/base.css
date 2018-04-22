@@ -1,0 +1,111 @@
+@charset "UTF-8";
+body {
+  min-width: 1024px;
+  font-size: 13px;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.62;
+}
+body,
+li,
+ul,
+ol,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+form {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: normal;
+}
+ul,
+ol {
+  list-style: none;
+}
+i,
+em {
+  font-style: normal;
+}
+a {
+  text-decoration: none;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.list-group {
+  margin-top: 40px;
+}
+.primary {
+  color: #02A682;
+}
+.default {
+  color: #666;
+}
+.primary-btn {
+  color: #02A682;
+}
+.primary-btn:hover {
+  color: #fff;
+  background: #02A682;
+}
+.default-btn {
+  color: #666;
+}
+.default-btn:hover {
+  background: #666;
+  color: #fff;
+}
+.more {
+  color: #999;
+}
+.more:hover {
+  color: #fff;
+  background: #999;
+}
+.common-btn {
+  color: #37a;
+  font-size: 13px;
+}
+.common-btn:hover {
+  color: #fff;
+  background: #37a;
+}
+.primary-btn,
+.default-btn,
+.common-btn {
+  line-height: 15px;
+}
+.play-btn {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  background: #222;
+  border-radius: 50%;
+  text-align: center;
+}
+.play-btn i {
+  display: block;
+  width: 0;
+  border: 5px solid transparent;
+  border-left: 8px solid #fff;
+  border-right-width: 10px;
+  -webkit-transform: translate(50%, 50%);
+          transform: translate(50%, 50%);
+  margin-left: -2px;
+}

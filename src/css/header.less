@@ -1,0 +1,225 @@
+@charset "UTF-8";
+.header {
+	background: #f0f3ef;
+	.top-nav-group {
+		background: #545652;
+		font-size: 12px;
+		.left-nav {
+			float: left;
+			li {
+				float: left;
+			}
+		}
+		.right-nav {
+			float: right;
+			> div {
+				float: left;
+				a {
+					margin-right: 5px;
+				}
+			}
+			.download-client  {
+				position: relative;
+				.more-info {
+					position: absolute;
+					display: none;
+					left: -60px;
+					padding: 0 45px;
+					background: #fff;
+					text-align: center;
+					.doubanapp {
+						padding-top: 60px;
+						.title {
+							padding-top: 20px;
+							line-height: 30px;
+							font-size: 22px;
+						}	
+						.dec {
+							line-height: 24px;
+							font-size: 13px;
+							letter-spacing: 3px;
+						}
+					}
+					.doubanapp-qrcode {
+						padding: 20px 0;
+						font-size: 0;
+						p {
+							padding-top: 15px;
+						}
+						a {
+							display: inline-block;
+							padding: 0;
+							height: 15px;
+							line-height: 15px;
+							color: #37a;
+						}
+						span, a {
+							font-size: 13px;
+						}
+						span {
+							display: inline-block;
+							padding-right: 3px;
+							line-height: 15px;
+							font-weight: bold;
+						}
+					}
+				}
+			}
+			.download-client:hover {
+				.more-info {
+					display: block;
+				}
+			}
+		}
+		a {
+			display: block;
+			height: 28px;
+			line-height: 28px;
+			padding: 0 12px;
+			color: #d5d5d5;
+		}
+		a:hover {
+			color: #fff;
+		}
+	}
+	.middle-search-group {
+		border-bottom: 1px solid #e5ebe4;
+		padding: 6px 0;
+		.search-con {
+			max-width: 1040px;
+			margin: auto;
+			// background: #999;
+			font-size: 0;
+			.logo, .search-group {
+				display: inline-block;
+				vertical-align: middle;
+			}
+			.logo {
+				a {
+					display: block;
+					width: 115px;
+					height: 62px;
+					padding-right: 30px;
+					margin-right: 10px;
+					background: url(../images/logo.png) no-repeat left center;
+				}
+			}
+			.search-group {
+				position: relative;
+				margin: 16px 0 15px;
+				// background: #ccc;
+				form {
+					border-radius: 5px;
+					overflow: hidden;
+				}
+				
+				input {
+					outline: none;
+					border: none;
+					vertical-align: top;
+				}
+				.search-bar {
+					width: 470px;
+					height: 30px;
+					border-bottom: 1px solid #d1d1d1;
+					background: #fff;
+					text-indent: 15px;
+				}
+				.search-btn {
+					width: 36px;
+					height: 31px;
+					cursor: pointer;
+					background: url(../images/nav_mu_bg.png) no-repeat;
+					background-position: 0px -40px;
+				}
+				.search-con-show {
+					position: absolute;
+					display: none;
+					z-index: 3;
+					width: 470px;
+					top: 30px;
+					border: 1px solid #d1d1d1;
+					background: #fff;
+					li {
+						a {
+							display: block;
+							padding: 6px;
+							font-size: 0;
+							color: #999;
+							.search-con-pic,
+							.search-con-info {
+								display: inline-block;
+								font-size: 13px;
+								vertical-align: top;
+							}
+							.search-con-pic {
+								width: 40px;
+								height: 40px;
+								margin-right: 6px;
+								img {
+									width: 100%;
+									height: 100%;
+								}
+							}
+							.search-con-info {
+								.info-name {
+									.name {
+										color: #336b99;
+									}
+								}
+							}
+						}
+						a:hover {
+							background: #f2f2f5;
+						}
+					}
+					li + li {
+						border-top: 1px solid #eee;
+					}
+				}
+			}
+		}
+	}
+	.bottom-nav-group {
+		position: relative;
+		max-width: 1040px;
+		margin: auto;
+		padding: 12px 0;
+		ul li {
+			float: left;
+			font-size: 14px;
+			a {
+				display: block;
+				line-height: 16px;
+				color: #555d53;
+			}
+			a:hover {
+				color: #fff;
+				background: #555d53;
+			}
+		}
+		li + li {
+			margin-left: 30px;
+		}
+		.annual-2017 {
+			position: absolute;
+			right: 0px;
+			bottom: 5px;
+			a {
+				display: block;
+				width: 186px;
+				height: 96px;
+				background: url(../images/annual_2017.png);
+				background-size: 100%;
+			}
+		}
+	}
+}
+@media screen and (max-width: 1024px) {
+	.header .middle-search-group, 
+	.header .bottom-nav-group,
+	.container .content {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+}

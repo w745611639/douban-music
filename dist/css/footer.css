@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.footer {
+  margin-top: 70px;
+}
+.footer .footer-con {
+  max-width: 1040px;
+  border-top: 1px dashed #eee;
+  margin: auto;
+  padding: 6px 0;
+}
+.footer .footer-con .info {
+  float: left;
+  color: #999;
+}
+.footer .footer-con .more-douban {
+  float: right;
+}
+.footer .footer-con .more-douban li {
+  float: left;
+}
+.footer .footer-con .more-douban li + li {
+  margin-left: 15px;
+}
+@media screen and (max-width: 1024px) {
+  .footer .footer-con {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}

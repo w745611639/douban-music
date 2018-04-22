@@ -1,0 +1,162 @@
+@charset "UTF-8";
+a {
+  line-height: 16px;
+}
+.container {
+  margin-top: 40px;
+}
+.container .content {
+  max-width: 1040px;
+  margin: auto;
+}
+.container .content h1 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #494949;
+}
+.container .content .article {
+  float: left;
+  width: 675px;
+  padding: 10px 0;
+}
+.container .content .article .search-con-list .search-con-list-item {
+  font-size: 0;
+  margin-bottom: 30px;
+}
+.container .content .article .search-con-list .search-con-list-item .left-pic-show,
+.container .content .article .search-con-list .search-con-list-item .right-info {
+  display: inline-block;
+  vertical-align: top;
+}
+.container .content .article .search-con-list .search-con-list-item .left-pic-show a {
+  display: block;
+  height: 80px;
+  overflow: hidden;
+}
+.container .content .article .search-con-list .search-con-list-item .left-pic-show a img {
+  display: block;
+  width: 80px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info {
+  margin-left: 15px;
+  font-size: 13px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade {
+  margin-top: 6px;
+  margin-bottom: 3px;
+  color: #666;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .star {
+  display: inline-block;
+  width: 55px;
+  height: 11px;
+  background: url(../images/ic_rating_s.png) no-repeat;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .none {
+  display: none;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .five-star {
+  background-position-y: 0;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .four-half-star {
+  background-position-y: -11px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .four-star {
+  background-position-y: -22px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .three-half-star {
+  background-position-y: -33px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .three-star {
+  background-position-y: -44px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .two-half-star {
+  background-position-y: -55px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .two-star {
+  background-position-y: -66px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .one-half-star {
+  background-position-y: -77px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .one-star {
+  background-position-y: -88px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .half-star {
+  background-position-y: -99px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .zero-star {
+  background-position-y: -110px;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .grade .score {
+  color: #e09015;
+}
+.container .content .article .search-con-list .search-con-list-item .right-info .other-msg {
+  max-width: 580px;
+  color: #999;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.container .content .aside {
+  float: right;
+  width: 300px;
+}
+.container .content .aside .correlation-search,
+.container .content .aside .Amazon-search,
+.container .content .aside .feedback,
+.container .content .aside .gact {
+  margin-top: 30px;
+}
+.container .content .aside .title {
+  font-size: 14px;
+  color: #007722;
+}
+.container .content .aside .link {
+  margin-top: 10px;
+}
+.container .content .aside .gact a {
+  color: #999;
+}
+.container .content .aside .gact a:hover {
+  background: #733;
+  outline: 1px solid red;
+}
+.container .content .search-page-control {
+  padding-top: 30px;
+  text-align: center;
+}
+.container .content .search-page-control ul {
+  display: inline-block;
+}
+.container .content .search-page-control ul li {
+  float: left;
+}
+.container .content .search-page-control ul li a {
+  padding: 0 5px;
+}
+.container .content .search-page-control ul li + li {
+  padding-left: 3px;
+}
+.container .content .search-page-control ul .prev-page {
+  margin-right: 20px;
+}
+.container .content .search-page-control ul .next-page {
+  margin-left: 20px;
+}
+.container .content .search-page-control ul .active a {
+  background: #83BF73;
+  color: #fff;
+}
+.container .content .search-page-control ul .prev-omit {
+  display: none;
+}
+.container .content .search-page-control ul a.disabled {
+  cursor: default;
+  color: #999;
+}
+.container .content .search-page-control ul a.disabled:hover {
+  color: #999;
+  background: none;
+}
