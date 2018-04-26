@@ -1,0 +1,1368 @@
+{
+    "count": 20,
+    "start": 0,
+    "total": 25,
+    "musics": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.5",
+                "numRaters": 5535,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "赵雷"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s29114672.jpg",
+            "tags": [
+                {
+                    "count": 1633,
+                    "name": "民谣"
+                },
+                {
+                    "count": 1343,
+                    "name": "赵雷"
+                },
+                {
+                    "count": 831,
+                    "name": "成都"
+                },
+                {
+                    "count": 320,
+                    "name": "2016"
+                },
+                {
+                    "count": 317,
+                    "name": "单曲"
+                },
+                {
+                    "count": 308,
+                    "name": "内地"
+                },
+                {
+                    "count": 282,
+                    "name": "中国"
+                },
+                {
+                    "count": 281,
+                    "name": "男声"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/26899717/",
+            "attrs": {
+                "publisher": [
+                    "StreetVoice"
+                ],
+                "singer": [
+                    "赵雷"
+                ],
+                "pubdate": [
+                    "2016-10-24"
+                ],
+                "title": [
+                    "成都"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "成都"
+                ],
+                "version": [
+                    "单曲"
+                ]
+            },
+            "title": "成都",
+            "alt": "https://music.douban.com/subject/26899717/",
+            "id": "26899717"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 7,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "赵雷"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s29442873.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "赵雷"
+                },
+                {
+                    "count": 2,
+                    "name": "2017"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/27037094/",
+            "attrs": {
+                "publisher": [
+                    "珠影白天鹅音像出版社"
+                ],
+                "singer": [
+                    "赵雷"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2017-03-15"
+                ],
+                "title": [
+                    "成都"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01\t成都\n02\t理想\n03\t无法长大\n04\t南方姑娘\n05\t三十岁的女人\n06\t再见北京\n07\t画\n08\t少年锦时\n09\t孤独\n10\t鼓楼\n11\t北京的冬天\n12\t朵\n13\t青春无处安放\n14\t未给姐姐递出的信\n15\t我们的时光\n16\t让我偷偷看你\n17\t开往北京的火车\n18\t玛丽\n19\t窑上路\n20\t吉姆餐厅\n21\t不开的唇\n22\t人家\n23\t八十年代的歌\n24\t再也不会去丽江\n25\t家乡\n26\t浮游\n27\t赵小雷\n28\t梦中的哈德森"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "成都",
+            "alt": "https://music.douban.com/subject/27037094/",
+            "id": "27037094"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 5,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "宋秉洋"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s29279383.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "还是挺大气的"
+                },
+                {
+                    "count": 1,
+                    "name": "宋秉洋"
+                },
+                {
+                    "count": 1,
+                    "name": "国产"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/26954151/",
+            "attrs": {
+                "publisher": [
+                    "星亿星文化"
+                ],
+                "singer": [
+                    "宋秉洋"
+                ],
+                "pubdate": [
+                    "2017-01-12"
+                ],
+                "title": [
+                    "成都成都"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "成都成都"
+                ],
+                "version": [
+                    "单曲"
+                ]
+            },
+            "title": "成都成都",
+            "alt": "https://music.douban.com/subject/26954151/",
+            "id": "26954151"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.7",
+                "numRaters": 382,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "李宇春"
+                }
+            ],
+            "alt_title": "李宇春:WHY ME 2006成都生日演唱会",
+            "image": "https://img1.doubanio.com/spic/s2410157.jpg",
+            "tags": [
+                {
+                    "count": 88,
+                    "name": "李宇春"
+                },
+                {
+                    "count": 41,
+                    "name": "WHYME"
+                },
+                {
+                    "count": 37,
+                    "name": "生日演唱会"
+                },
+                {
+                    "count": 29,
+                    "name": "Live"
+                },
+                {
+                    "count": 26,
+                    "name": "演唱会"
+                },
+                {
+                    "count": 21,
+                    "name": "女歌手"
+                },
+                {
+                    "count": 17,
+                    "name": "2005"
+                },
+                {
+                    "count": 13,
+                    "name": "流行"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2082854/",
+            "attrs": {
+                "publisher": [
+                    "黑龙江文化音像出版社"
+                ],
+                "singer": [
+                    "李宇春"
+                ],
+                "version": [
+                    "视频"
+                ],
+                "title": [
+                    "成都生日演唱会"
+                ],
+                "media": [
+                    "VCD"
+                ],
+                "tracks": [
+                    "A\n01. 未来的主人翁\n02. Fly Me To The Moon\n03. 哭了\n04. Love Will Keep Us Alive\n05. 猜心\n06. Impossible -春的师姐演唱\n07. Thank You\n08. 蓝天\n09. Let It Be\nB\n10. 我的翅膀 -何洁演唱\n11. 你的甜蜜\n12. Beauty and the Beast\n13. Quizas\n14. Underneath Your Clothes\n15. 夜来香\n16. You're Still The One\n17. 我的心里只有你没有他\n18. Zombie\n赠送1VCD 花絮"
+                ],
+                "discs": [
+                    "3"
+                ]
+            },
+            "title": "成都生日演唱会",
+            "alt": "https://music.douban.com/subject/2082854/",
+            "id": "2082854"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.5",
+                "numRaters": 20,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Dogone"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3761769.jpg",
+            "tags": [
+                {
+                    "count": 9,
+                    "name": "实地录音"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental"
+                },
+                {
+                    "count": 3,
+                    "name": "Field-recording"
+                },
+                {
+                    "count": 3,
+                    "name": "China"
+                },
+                {
+                    "count": 2,
+                    "name": "内地"
+                },
+                {
+                    "count": 2,
+                    "name": "field-recording"
+                },
+                {
+                    "count": 1,
+                    "name": "大陆"
+                },
+                {
+                    "count": 1,
+                    "name": "field-recordings"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3708324/",
+            "attrs": {
+                "publisher": [
+                    "downstreet"
+                ],
+                "singer": [
+                    "Dogone"
+                ],
+                "version": [
+                    "录音"
+                ],
+                "pubdate": [
+                    "2009"
+                ],
+                "title": [
+                    "成都 双流 103厂"
+                ],
+                "media": [
+                    "cdr"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "成都 双流 103厂",
+            "alt": "https://music.douban.com/subject/3708324/",
+            "id": "3708324"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "王铮亮"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s29062470.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "王铮亮"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/26880245/",
+            "attrs": {
+                "publisher": [
+                    "成视文化"
+                ],
+                "singer": [
+                    "王铮亮"
+                ],
+                "pubdate": [
+                    "2016-09-19"
+                ],
+                "title": [
+                    "成都榜样"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "成都榜样"
+                ],
+                "version": [
+                    "单曲"
+                ]
+            },
+            "title": "成都榜样",
+            "alt": "https://music.douban.com/subject/26880245/",
+            "id": "26880245"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 7,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "彝族民间艺人器乐 演奏"
+                },
+                {
+                    "name": "龙曰文化(北京)  、永生文化传播(成都) 、自豪音乐文化(成都) 联合音乐制作"
+                },
+                {
+                    "name": "西昌彝族文化发展传播有限公司 出品"
+                }
+            ],
+            "alt_title": "Listening for the Sound from the Cold Mountains: Imaginative Folk Music of the Yi People",
+            "image": "https://img3.doubanio.com/spic/s4130320.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "民族音乐"
+                },
+                {
+                    "count": 2,
+                    "name": "彝族音乐"
+                },
+                {
+                    "count": 2,
+                    "name": "凉山"
+                },
+                {
+                    "count": 2,
+                    "name": "中国"
+                },
+                {
+                    "count": 1,
+                    "name": "轻音乐"
+                },
+                {
+                    "count": 1,
+                    "name": "民族"
+                },
+                {
+                    "count": 1,
+                    "name": "民乐"
+                },
+                {
+                    "count": 1,
+                    "name": "彝族"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/4230778/",
+            "attrs": {
+                "publisher": [
+                    "四川音像出版社"
+                ],
+                "singer": [
+                    "彝族民间艺人器乐 演奏",
+                    "龙曰文化(北京)  、永生文化传播(成都) 、自豪音乐文化(成都) 联合音乐制作",
+                    "西昌彝族文化发展传播有限公司 出品"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "2009-11-15"
+                ],
+                "title": [
+                    "大小凉山──中国彝族民间器乐电声演绎之典藏版"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01   英雄髻 (彝笛)  3.31 演奏／曲木乌萨；编配／毛豆\n02   成年礼 (口弦)  3.56  演奏／海来比比嫫；编配／吉狄康帅 吉克曲布\n03   月亮村庄 (月琴)  3.56  演奏／沙马乌支 编配／曹操\n04   武士 (口弦)   3.56   演奏／俄狄日火；编配／周云山\n05   铠甲 (马布)  4.02  演奏／果基阿铁；编配／郭大纲\n06   彝女 (口弦)   2.56  演奏／海来比比嫫；编配／DJ 66\n07   支格阿鲁 (口弦)  3.52  演奏／海来比比嫫；编配／曹操\n08   牧  (彝笛)   4.15  演奏／曲木乌萨；编配／曹操\n09   冷杉 (口弦)   3.16  演奏／海来比比嫫；编配／段永生\n10   三原色 (葫芦笙)  3.54  演奏／吉觉补惹；编配／梁华民\n11   回归祖界 (口弦)   2.14    演奏／俄狄日火；编配／段永生\n12   情歌 (葫芦丝)  4.44  演奏／沙玛瓦特；编配／廖星\n13   山泉／河流 (口弦)  4.09  演奏／俄狄日火；编配／马小跃\n14   猎人与织妇  (马布)  3.48  演奏／格衣萨萨；编配／马小跃\n15   火把节 (月琴)  3.47  演奏／沙马乌支；编配／马小跃\n16   翅迹 (口弦)  3.14  演奏／马国国；编配／段永生\n17   生长(口弦)  3.03  演奏／马国国；编配／段永生\n18   彝人 (葫芦笙)  3.14  演奏／吉觉补惹；编配／段永生"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "大小凉山──中国彝族民间器乐电声演绎之典藏版",
+            "alt": "https://music.douban.com/subject/4230778/",
+            "id": "4230778"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.3",
+                "numRaters": 325,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "成都说唱会馆"
+                }
+            ],
+            "alt_title": "Hit Dat Mixtape",
+            "image": "https://img3.doubanio.com/spic/s9067606.jpg",
+            "tags": [
+                {
+                    "count": 526,
+                    "name": "Hip-Hop"
+                },
+                {
+                    "count": 447,
+                    "name": "说唱"
+                },
+                {
+                    "count": 250,
+                    "name": "J哥"
+                },
+                {
+                    "count": 232,
+                    "name": "中文说唱"
+                },
+                {
+                    "count": 176,
+                    "name": "cdc!!!"
+                },
+                {
+                    "count": 112,
+                    "name": "喜欢"
+                },
+                {
+                    "count": 106,
+                    "name": "cat随哥"
+                },
+                {
+                    "count": 106,
+                    "name": "Chinese-Rap"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10618407/",
+            "attrs": {
+                "publisher": [
+                    "成都说唱会馆"
+                ],
+                "singer": [
+                    "成都说唱会馆"
+                ],
+                "version": [
+                    "选集"
+                ],
+                "pubdate": [
+                    "2012-05-01"
+                ],
+                "title": [
+                    "说唱会馆Hit Dat Mixtape"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "01.i成都（Sleepy Cat Feat.老熊Mow）\n02.踩Bia（Free.T of Big Zoo）\n03.你屌个毛啊（Fat Shady）\n04.就是爽（Free.T of Big Zoo）\n05.Jump Out（Kafe.Hu Feat.老熊Mow Lil White）\n06.说出来（Sleepy Cat Feat.老熊Mow）\n07.Amnesia（K-bo）\n08.好生说（Sleepy Cat）\n09.哪种说（Sleepy Cat）\n10.做我爱人（K-bo Feat.Young Mai）\n11.做作男些（老熊Mow Feat. Lil White）\n12.送给女生（Free.T of Big Zoo）\n13.South High In 玉林（老熊Mow Feat.T-Flash）\n14.好生耍（Fat Shady）\n15.听了就瘦（Lil Shin Feat.Fat Shady）\n16.Gucci Bag（Shaq G of Big Zoo）\n17.Hush（Free.T of Big Zoo）\n18.小角色（Kafe.Hu）\n19.这首歌（Shaq G of Big Zoo）\n20.小伙子（AnsrJ Feat.Onstyle Fat Shady）\n21.Big Zoo Diss Back（Shaq G 204 & Free.T of Big Zoo）\n22.坏学生（孟子 of Onstyle）\n23.好耍得狠（Big Zoo）\n24.狮子王Drum Remix（AnsrJ Feat.BigFlip Kafe.Hu & Neva.J）\n25.I Run This City（Sleepy Cat）\n26.PaPa Dogg（Free.T Feat.老熊Mow Lil White）\n27.苦艾日记（AnsrJ）\n28.Who Dat Remix（AnsrJ Feat.Melo Jarstick）\n29.Dark Night（Kafe.Hu）\n30.我很High的时候写给你的信（Kafe.Hu）\n31.他是一个说唱歌手Part.2（AnsrJ Feat.Neva.J）\n32.Drop It Low（Ty.）\n33.If U Luv Me（Ty. Feat.Qluv）\nBonus Track：\n小霸王（Beat Prod By Eddie）\nEnergy（K-bo）"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "说唱会馆Hit Dat Mixtape",
+            "alt": "https://music.douban.com/subject/10618407/",
+            "id": "10618407"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.6",
+                "numRaters": 84,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Various Artists"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3765122.jpg",
+            "tags": [
+                {
+                    "count": 21,
+                    "name": "地下成都"
+                },
+                {
+                    "count": 13,
+                    "name": "合辑"
+                },
+                {
+                    "count": 6,
+                    "name": "摇滚"
+                },
+                {
+                    "count": 6,
+                    "name": "Chinese"
+                },
+                {
+                    "count": 5,
+                    "name": "中国"
+                },
+                {
+                    "count": 4,
+                    "name": "成都"
+                },
+                {
+                    "count": 4,
+                    "name": "内地"
+                },
+                {
+                    "count": 3,
+                    "name": "国内"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3711558/",
+            "attrs": {
+                "publisher": [
+                    "小酒馆"
+                ],
+                "singer": [
+                    "Various Artists"
+                ],
+                "pubdate": [
+                    "2004-04"
+                ],
+                "title": [
+                    "地下成都3"
+                ],
+                "tracks": [
+                    "1 另外两位同志 [月城夜色 NO.2]\n介绍：先锋实验乐团，1998年组队，2003年乐队核心人物欢庆定居大理。\n2 酉酉 [不去2003]\n介绍：本名罗有声，阿修罗乐队吉他手，为成都地下乐队录制了大量作品。\n3 DIM NOVA [I'M GOING]\n介绍：年轻的英式摇滚乐队，成员为在校大学生。\n4 阿修罗 [NEW BOY]\n介绍：1999年组队，曾用名“夜叉”、“修罗”，音乐丰富健康，注重旋律，目前是成都最成熟的乐队之一。\n5 童党 [REMAIN]\n介绍：2002年9月组队，乐队平均年龄20岁，风格为旋律重金属。\n6 Q9 [TURNTABLE TV]\n介绍：本名袁晴，前“襁褓”乐队核心乐手，2002年转做DJ，2003年中国DMC大赛第5名。\n7 MC大宽 [HIPHOP启事录]\n介绍：在校高中生，HIP-HOP音乐痴迷者，成都最好的MC之一。\n8 卢小旭 [传说从前]\n介绍：成都独立音乐人，2002年大学毕业后赴北京工作。\n9 声音与玩具 [最伟大的说谎者 LIVE]\n介绍：1999年组队，曾用名“朝圣者的背叛”、“声音玩具”，2004年制作发行DEMO专辑《最美妙的旅行》。\n10 绿色频道 [所有爱]\n介绍：2002年6月组队，乐队成立之初期风格偏向于英式摇滚，清新舒缓，经过一年多的摸索与总结，现在逐步融入一些PUNK、日本摇滚等元素，更趋于多元化。\n11 赤潮 [影]\n介绍：2000年组队的高中生乐队，2002年高二暑假完成了其DEMO专辑《赤潮》的录制后解散。\n12 风暴咒语 [新年快乐]\n介绍：2000年组队，2002年重庆啤酒摇滚大赛冠军。\n13 魏小石 [My Honey Jane]\n介绍：电子科技大学在校大学生，民谣歌手。\n14 梁鹏 [MORC]\n介绍：四川工业大学学生。\n15 雷神 [HATE SONG]\n介绍：1999年组队，2003年重组。成都老牌金属乐队，2000年制作DEMO专辑《生之不安》。\n16 The Gorgeous Stone [#1]\n介绍：成都独立阴暗音乐厂牌[生命之旗]旗下的阴暗工业个人计划。\n17 恶臭 [焚尸炉]\n介绍：2003年组队，暴力金属。成员均来自四川音乐学院。"
+                ],
+                "version": [
+                    "选集"
+                ]
+            },
+            "title": "地下成都3",
+            "alt": "https://music.douban.com/subject/3711558/",
+            "id": "3711558"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.7",
+                "numRaters": 209,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "张杰"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s22706346.jpg",
+            "tags": [
+                {
+                    "count": 79,
+                    "name": "张杰"
+                },
+                {
+                    "count": 31,
+                    "name": "华语男歌手"
+                },
+                {
+                    "count": 25,
+                    "name": "音乐"
+                },
+                {
+                    "count": 24,
+                    "name": "内地"
+                },
+                {
+                    "count": 23,
+                    "name": "大爱；经典；实力"
+                },
+                {
+                    "count": 21,
+                    "name": "舒服"
+                },
+                {
+                    "count": 20,
+                    "name": "大陆"
+                },
+                {
+                    "count": 20,
+                    "name": "Pop"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/19950621/",
+            "attrs": {
+                "publisher": [
+                    "星外星唱片"
+                ],
+                "singer": [
+                    "张杰"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2012-09-29"
+                ],
+                "title": [
+                    "One Chance新歌+精选&2011这就是爱成都演唱会"
+                ],
+                "media": [
+                    "CD+DVD"
+                ],
+                "tracks": [
+                    "CD1\n01 One Chance\n02 勿忘心安\n03 明天过后\n04 恒星流星\n05 写下寂寞\n06 今生今世\n07 看月亮爬上来\n08 如果爱\n09 云中的angel\n10 穿越人海\n11 这，就是爱\nCD2\n01 逆战\n02 我们都一样\n03 风\n04 何必在一起\n05 再爱我一回\n06 天下\n07 流言有一千分贝\n08 你和我\n09 最美的太阳\n10 一切都值得\n11 我们的歌\n12 北斗星的爱\nDVD\n01 成都演唱会DVD片头\n02 火鸟\n03 对\n04 下一个自己\n05 想和你去吹吹风\n06 到底有谁能告诉我\n07 今夜你会不会来\n08 何必在一起\n09 让你依靠\n10 今生今世\n11 我们都一样\n12 突然想爱你\n13 亲爱的你怎么不在我身边\n14 太委屈\n15 原来你什么都不想要\n16 最浪漫的事\n17 Marry Me\n18 穿越人海\n19 心中一把火\n20 最接近天堂的地方\n21 明天过后\n22 半透明的墙\n23 最美的太阳\n24 这，就是爱"
+                ],
+                "discs": [
+                    "3"
+                ]
+            },
+            "title": "One Chance新歌+精选&2011这就是爱成都演唱会",
+            "alt": "https://music.douban.com/subject/19950621/",
+            "id": "19950621"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.9",
+                "numRaters": 67,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "VA"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3765123.jpg",
+            "tags": [
+                {
+                    "count": 15,
+                    "name": "地下成都"
+                },
+                {
+                    "count": 9,
+                    "name": "成都"
+                },
+                {
+                    "count": 5,
+                    "name": "合辑"
+                },
+                {
+                    "count": 4,
+                    "name": "中国摇滚"
+                },
+                {
+                    "count": 2,
+                    "name": "地下"
+                },
+                {
+                    "count": 2,
+                    "name": "土摇"
+                },
+                {
+                    "count": 2,
+                    "name": "国内"
+                },
+                {
+                    "count": 2,
+                    "name": "中国"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3711556/",
+            "attrs": {
+                "publisher": [
+                    "暗潰横行"
+                ],
+                "tracks": [
+                    "01.没有机会（小肉肉）\n02.17秒（阿拉伯病人）\n03.求知欲（列侬的星期天）\n04.白骨诗人（烈痕）\n05.沉睡的殷墟（U235）\n06.Horizon（左岸）\n07.啼[DEMO]（Heroinside）\n08.跑（跑的狂想）\n09.收割（仵作）\n10.未来（酉酉）\n11.！！（INTHA）\n12.什么结束（袁晴）\n13.？？？（小肉肉）\n14.Bad Guys Control The World（卢小旭和宋林波）\n15.Moonshine（Greewall）"
+                ],
+                "singer": [
+                    "VA"
+                ],
+                "pubdate": [
+                    "2001-09"
+                ],
+                "title": [
+                    "地下成都2"
+                ]
+            },
+            "title": "地下成都2",
+            "alt": "https://music.douban.com/subject/3711556/",
+            "id": "3711556"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.4",
+                "numRaters": 70,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "VA"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3765126.jpg",
+            "tags": [
+                {
+                    "count": 16,
+                    "name": "地下成都"
+                },
+                {
+                    "count": 14,
+                    "name": "合辑"
+                },
+                {
+                    "count": 9,
+                    "name": "成都"
+                },
+                {
+                    "count": 7,
+                    "name": "2000"
+                },
+                {
+                    "count": 5,
+                    "name": "中国摇滚"
+                },
+                {
+                    "count": 5,
+                    "name": "中国"
+                },
+                {
+                    "count": 3,
+                    "name": "摇滚"
+                },
+                {
+                    "count": 3,
+                    "name": "内地"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3711555/",
+            "attrs": {
+                "publisher": [
+                    "暗潰横行"
+                ],
+                "tracks": [
+                    "1 小肉肉楽隊 魚的故事\n2 U235楽隊 姥姥\n3 虞志勇 ［ﾛ藝］語\n4 向日葵楽隊 Behind U\n5 羅友生 Surprise\n6 張［ウ/必］及楽隊 一口呼吸\n7 ［口/力］外両位同志楽隊\n8 襁褓楽隊 天生残缺\n9 複眼楽隊 諸神的黄昏\n10 漂白楽隊 上面\n11 修羅楽隊 精神病和巨人症（初稿）\n12 雷神楽隊 没有○○○就没有×××\n13 菠菜楽隊 一杯香茶\n14 失眠楽隊 棄嬰"
+                ],
+                "singer": [
+                    "VA"
+                ],
+                "pubdate": [
+                    "2000-04"
+                ],
+                "title": [
+                    "地下成都"
+                ]
+            },
+            "title": "地下成都",
+            "alt": "https://music.douban.com/subject/3711555/",
+            "id": "3711555"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.7",
+                "numRaters": 20,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "香港愛樂民樂團"
+                },
+                {
+                    "name": "中國成都民樂團聯合演奏"
+                },
+                {
+                    "name": "謝惠湛 指揮"
+                }
+            ],
+            "alt_title": "Song of the Conscripts",
+            "image": "https://img3.doubanio.com/spic/s2370522.jpg",
+            "tags": [
+                {
+                    "count": 8,
+                    "name": "民乐"
+                },
+                {
+                    "count": 7,
+                    "name": "民族管弦乐"
+                },
+                {
+                    "count": 4,
+                    "name": "雨果唱片"
+                },
+                {
+                    "count": 3,
+                    "name": "雨果"
+                },
+                {
+                    "count": 3,
+                    "name": "兵车行"
+                },
+                {
+                    "count": 2,
+                    "name": "香港"
+                },
+                {
+                    "count": 1,
+                    "name": "高为杰"
+                },
+                {
+                    "count": 1,
+                    "name": "的"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2052433/",
+            "attrs": {
+                "publisher": [
+                    "香港 : 雨果唱片公司"
+                ],
+                "tracks": [
+                    "大漠戍邊圖 - 第一樂章 《白雪歌送武判官歸京》 / 張堅 ; 香港愛樂民樂團 ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 大漠戍邊圖 - 第二樂章《輪台歌奉送封大夫出師西征》 / 張堅 ; 香港愛樂民樂團 ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 蜀宮夜宴 / 朱舟 ; 俞抒 ; 高為杰 ; 香港愛樂民樂團 ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 兵車行 / 胡結續 ; 胡結續 ( 笛子 ) ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 兵車行 / 胡結續 ; 胡結續 ( 笛子 ) ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 蜀鄉小曲 / 張秉寮 ; 中國成都民樂團 ; 謝惠湛 ( 指揮 )\n-- 流水 / 王華德 ( 宋琴 )"
+                ],
+                "singer": [
+                    "香港愛樂民樂團",
+                    "中國成都民樂團聯合演奏",
+                    "謝惠湛 指揮"
+                ],
+                "pubdate": [
+                    "1988"
+                ],
+                "title": [
+                    "中国民族管弦乐及小品系列-兵车行"
+                ]
+            },
+            "title": "中国民族管弦乐及小品系列-兵车行",
+            "alt": "https://music.douban.com/subject/2052433/",
+            "id": "2052433"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.4",
+                "numRaters": 24,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "乔维怡"
+                },
+                {
+                    "name": "蔡莹莹"
+                },
+                {
+                    "name": "阳蕾"
+                },
+                {
+                    "name": "熊文"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s2410565.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "超级女声"
+                },
+                {
+                    "count": 4,
+                    "name": "合辑"
+                },
+                {
+                    "count": 4,
+                    "name": "内地"
+                },
+                {
+                    "count": 2,
+                    "name": "超女"
+                },
+                {
+                    "count": 2,
+                    "name": "华语"
+                },
+                {
+                    "count": 2,
+                    "name": "2006"
+                },
+                {
+                    "count": 1,
+                    "name": "音乐"
+                },
+                {
+                    "count": 1,
+                    "name": "还行"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2083038/",
+            "attrs": {
+                "singer": [
+                    "乔维怡",
+                    "蔡莹莹",
+                    "阳蕾",
+                    "熊文"
+                ],
+                "pubdate": [
+                    "2006年9月"
+                ],
+                "title": [
+                    "2006超级女声成都唱区×10强"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01 爱我就告诉我-乔维怡\n02 小魔女和她的猫-蔡莹莹\n03 学会-阳蕾\n04 我用我的美-熊文\n05 如果我没有爱过-谭维维\n06 跨越-吴雅梦\n07 再见再不见-赵媛媛\n08 冬天想起你-彭春霞\n09 一望无际-陈鹭虹\n10 我们的主题歌-刘悦"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "2006超级女声成都唱区×10强",
+            "alt": "https://music.douban.com/subject/2083038/",
+            "id": "2083038"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "7.6",
+                "numRaters": 17,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "衣湿"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s29480124.jpg",
+            "tags": [
+                {
+                    "count": 6,
+                    "name": "衣湿"
+                },
+                {
+                    "count": 1,
+                    "name": "大陆"
+                },
+                {
+                    "count": 1,
+                    "name": "内地"
+                },
+                {
+                    "count": 1,
+                    "name": "中国"
+                },
+                {
+                    "count": 1,
+                    "name": "⭐⭐⭐"
+                },
+                {
+                    "count": 1,
+                    "name": "Single"
+                },
+                {
+                    "count": 1,
+                    "name": "Indie-Rock"
+                },
+                {
+                    "count": 1,
+                    "name": "Folk"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/27074189/",
+            "attrs": {
+                "publisher": [
+                    "草台回声"
+                ],
+                "singer": [
+                    "衣湿"
+                ],
+                "pubdate": [
+                    "2017-06-22"
+                ],
+                "title": [
+                    "胖娃儿上成都"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "胖娃儿上成都"
+                ],
+                "version": [
+                    "单曲"
+                ]
+            },
+            "title": "胖娃儿上成都",
+            "alt": "https://music.douban.com/subject/27074189/",
+            "id": "27074189"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.0",
+                "numRaters": 17,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "李宇春 Chris Lee"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s27317547.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "李宇春"
+                },
+                {
+                    "count": 2,
+                    "name": "内地"
+                },
+                {
+                    "count": 2,
+                    "name": "ChrisLee"
+                },
+                {
+                    "count": 2,
+                    "name": "2006"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/25920975/",
+            "attrs": {
+                "publisher": [
+                    "黑龙江文化电子音像出版社"
+                ],
+                "singer": [
+                    "李宇春 Chris Lee"
+                ],
+                "version": [
+                    "视频"
+                ],
+                "pubdate": [
+                    "2006-05"
+                ],
+                "title": [
+                    "WHY ME成都生日演唱会(2D9精装版）"
+                ],
+                "tracks": [
+                    "01 未来的主人翁 李宇春\n02 Fly me to the moon 李宇春\n03 哭了 李宇春\n04 Love will keep us alive 李宇春\n05 猜心 李宇春\n06 Impossible--春的师姐演唱\n07 Thank you 李宇春\n08 蓝天 李宇春\n09 Let it be 李宇春\n10 我的翅膀 何洁\n11 你的甜蜜 李宇春\n12 Beauty and the beast 李宇春\n13 Quizas 李宇春\n14 Underneath your clothes 李宇春\n15 夜来香 李宇春\n16 You're still the one 李宇春\n17 我的心里只有你没有他 李宇春\n18 Zombie 李宇春"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "WHY ME成都生日演唱会(2D9精装版）",
+            "alt": "https://music.douban.com/subject/25920975/",
+            "id": "25920975"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Various Artists"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s4647400.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "民谣"
+                },
+                {
+                    "count": 1,
+                    "name": "掘火电台"
+                },
+                {
+                    "count": 1,
+                    "name": "吉他"
+                },
+                {
+                    "count": 1,
+                    "name": "folk"
+                },
+                {
+                    "count": 1,
+                    "name": "I♥CD"
+                },
+                {
+                    "count": 1,
+                    "name": "China"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/5993678/",
+            "attrs": {
+                "publisher": [
+                    "掘火电台"
+                ],
+                "singer": [
+                    "Various Artists"
+                ],
+                "pubdate": [
+                    "2011-02-24"
+                ],
+                "title": [
+                    "民谣救护车成都现场"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "1.吴卓玲\n2.疯帽子合唱团\n3.走资派\n4.陈鑫磊\n5.曹草"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "民谣救护车成都现场",
+            "alt": "https://music.douban.com/subject/5993678/",
+            "id": "5993678"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 7,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "李宇春"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3636238.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "春春"
+                },
+                {
+                    "count": 2,
+                    "name": "女歌手"
+                },
+                {
+                    "count": 2,
+                    "name": "大陆"
+                },
+                {
+                    "count": 1,
+                    "name": "超级女声"
+                },
+                {
+                    "count": 1,
+                    "name": "超女"
+                },
+                {
+                    "count": 1,
+                    "name": "流行"
+                },
+                {
+                    "count": 1,
+                    "name": "李宇春"
+                },
+                {
+                    "count": 1,
+                    "name": "女声"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2082839/",
+            "attrs": {
+                "media": [
+                    "DVD"
+                ],
+                "singer": [
+                    "李宇春"
+                ],
+                "discs": [
+                    "2"
+                ],
+                "title": [
+                    "超级女声唱游中国巡回演唱会:成都站"
+                ]
+            },
+            "title": "超级女声唱游中国巡回演唱会:成都站",
+            "alt": "https://music.douban.com/subject/2082839/",
+            "id": "2082839"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "谭维维"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3635948.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "选秀"
+                },
+                {
+                    "count": 1,
+                    "name": "合辑"
+                },
+                {
+                    "count": 1,
+                    "name": "内地"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2305590/",
+            "attrs": {
+                "media": [
+                    "合式录音带"
+                ],
+                "singer": [
+                    "谭维维"
+                ],
+                "title": [
+                    "2006超级女声成都唱区×10强(1磁带)"
+                ]
+            },
+            "title": "2006超级女声成都唱区×10强(1磁带)",
+            "alt": "https://music.douban.com/subject/2305590/",
+            "id": "2305590"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "黄雅莉"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3636098.jpg",
+            "tags": [],
+            "mobile_link": "https://m.douban.com/music/subject/2164163/",
+            "attrs": {
+                "media": [
+                    "VCD"
+                ],
+                "singer": [
+                    "黄雅莉"
+                ],
+                "discs": [
+                    "3"
+                ],
+                "title": [
+                    "超级女声唱游中国巡回演唱会3:成都站"
+                ]
+            },
+            "title": "超级女声唱游中国巡回演唱会3:成都站",
+            "alt": "https://music.douban.com/subject/2164163/",
+            "id": "2164163"
+        }
+    ]
+}

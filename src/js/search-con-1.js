@@ -65,7 +65,7 @@ let $document = $(document);
 			html += `<li class="search-con-list-item">
 						<div class="left-pic-show">
 							<a href="./music-info.html?key=${ele.title}&id=${ele.id}">
-								<img src="${ele.image}" alt="" onerror="this.style.cssText='box-sizing: border-box; height: 100%; border: 1px solid #ccc'"/>
+								<img src="${ele.image}" alt="图片加载错误" onerror="this.style.cssText='box-sizing: border-box; height: 100%; border: 1px solid #ccc'"/>
 							</a>
 						</div>
 						<div class="right-info">

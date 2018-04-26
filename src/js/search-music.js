@@ -37,9 +37,9 @@
 		data.musics.forEach((ele, index) => {
 			if(index >= 7) return;
 			html += `<li>
-						<a href="http://localhost:8081/dist/html/music-info.html?key=${value}&id=${ele.id}">
+						<a href="./music-info.html?key=${value}&id=${ele.id}">
 							<div class="search-con-pic">
-								<img src="${ele.image}" alt="" />
+								<img src="${ele.image}" alt="error" onerror="this.style.cssText='display: block; height: 100%; border: 1px solid #ccc; box-sizing: border-box'"/>
 							</div>
 							<div class="search-con-info">
 								<p class="info-name">

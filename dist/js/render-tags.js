@@ -4,7 +4,7 @@
 		let tags = data.tags;
 		let html = '';
 		tags.forEach(ele => {
-			html += `<<a href="#">${ele.name}</a>`
+			html += `<a href="#">${ele.name}</a>`
 		});
 		$document.find('.tag-list').html(html);
 	}

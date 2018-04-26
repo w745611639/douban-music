@@ -19,7 +19,13 @@
 				$document.find('.music-info').html(html);
 			}		
 		}	
-		$document.find('.img-show .contain-img img').attr('src', data.image)
+		$document.find('.img-show .contain-img img').attr('src', data.image).attr('alt', '图片加载错误').on('error', function () {
+			$(this).css({
+				'height': '100%',
+				'border': '1px solid #ccc',
+				'box-sizing': 'border-box'
+			})
+		})
 		$document.find('.music-title').html(data.title);
 	}
 	root.renderMusicInfo = renderMusicInfo;
