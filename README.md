@@ -4,11 +4,15 @@
     使用jQuery 进行开发, 实现联想词搜索（仿抖），无缝轮播，分页组件的构建，api使用的是豆瓣的开放音乐api。
     在这里使用gulp的主要目的是搭建一个测试服务器;
 ###
-====
 安装
-====
+----
 ```
 git clone https://github.com/w745611639/douban-music
 cd douban-music
 npm install 
+```
+使用
+----
+```
+gulp
 ```
