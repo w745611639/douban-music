@@ -15,4 +15,5 @@ npm install
 ----
 ```
 gulp
+浏览器中打开 http://localhost:8081;   在dist 目录下
 ```
