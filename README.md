@@ -6,10 +6,12 @@
 ###
 项目体验
 ----
-```
+
 你可以访问如下地址体验
-https://w745611639.github.io/douban-music/
-```
+
+<a href="https://w745611639.github.io/douban-music/">https://w745611639.github.io/douban-music/</a>
+
+
 安装
 ----
 ```
